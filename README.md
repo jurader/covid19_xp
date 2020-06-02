@@ -1,6 +1,7 @@
 # covid19_xp_vg16_with_da
 
-# Use of this respository
+# Usage
+
 
 # Paper 
 If source code of repository is used, please cite the following paper.
