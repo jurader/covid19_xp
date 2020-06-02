@@ -3,12 +3,13 @@
 # Use of this respository
 
 # Paper 
-If source code of respository is used, please cite the following paper.
+If source code of repository is used, please cite the following paper.
 
 
 
 
-# Lisence
-Source code of this respository was under GPLv3. For the detail, please see Lisence file of respository. 
+# License
+Source code of this repository was licensed under GPLv3. 
+For the detail, please see License file of repository. 
 
 
