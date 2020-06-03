@@ -6,7 +6,9 @@ Our results show that the three-category accuracy of the model was 83.6% between
 
 # Usage
 CUDA10, tensroflow-1.13.1, and keras-2.2.4 are required for training and testing the model. 
-To run the model, jupyter notebook can be used for the model.
+
+To run the model, jupyter notebook can be used for the model. 
+We recommend to use the ipynb files of this repository for running the model. 
 Please upload ipynb files of this repository to Google Colaboratory or etc.
 
 
@@ -20,8 +22,9 @@ These images are collected from http://arxiv.org/abs/2003.11597 and https://www.
 # Paper 
 If source code of repository is used, please cite the following paper.
 
-Automatic classification between COVID-19 pneumonia, non-COVID-19 pneumonia, and the healthy on chest X-ray image: combination of data augmentation methods in a small dataset
-Mizuho Nishio, Shunjiro Noguchi, Hidetoshi Matsuo, Takamichi Murakami
+Automatic classification between COVID-19 pneumonia, non-COVID-19 pneumonia, and the healthy on chest X-ray image: combination of data augmentation methods in a small dataset.
+Mizuho Nishio, Shunjiro Noguchi, Hidetoshi Matsuo, Takamichi Murakami.
+
 https://arxiv.org/abs/2006.00730
 
 
