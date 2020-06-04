@@ -22,7 +22,7 @@ These images are collected from http://arxiv.org/abs/2003.11597 and https://www.
 
 
 # Paper 
-If the source code of this repository is used, please cite the following paper.
+If the source code of this repository is used, please cite the following preprint paper.
 
 Automatic classification between COVID-19 pneumonia, non-COVID-19 pneumonia, and the healthy on chest X-ray image: combination of data augmentation methods in a small dataset.
 Mizuho Nishio, Shunjiro Noguchi, Hidetoshi Matsuo, Takamichi Murakami.
