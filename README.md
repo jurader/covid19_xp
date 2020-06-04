@@ -4,7 +4,9 @@ This repository includes source code of deep learning model for classification b
 
 Our results show that the three-category accuracy of the model was 83.6% between COVID-19 pneumonia, non-COVID-19 pneumonia, and the healthy. Sensitivity of COVID-19 pneumonia was more than 90%. 
 
+
 # Usage
+The source code is written in Python (version 3.7). 
 CUDA10, tensroflow-1.13.1, and keras-2.2.4 are required for training and testing the model. 
 
 To run the model, jupyter notebook can be used for the model. 
@@ -20,7 +22,7 @@ These images are collected from http://arxiv.org/abs/2003.11597 and https://www.
 
 
 # Paper 
-If source code of repository is used, please cite the following paper.
+If the source code of this repository is used, please cite the following paper.
 
 Automatic classification between COVID-19 pneumonia, non-COVID-19 pneumonia, and the healthy on chest X-ray image: combination of data augmentation methods in a small dataset.
 Mizuho Nishio, Shunjiro Noguchi, Hidetoshi Matsuo, Takamichi Murakami.
@@ -29,7 +31,7 @@ https://arxiv.org/abs/2006.00730
 
 
 # License
-Source code of this repository was licensed under GPLv3. 
+The source code of this repository was licensed under GPLv3. 
 For the detail, please see License file of this repository. 
 
 
