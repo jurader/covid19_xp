@@ -7,7 +7,7 @@ Our results show that the three-category accuracy of the model was 83.6% between
 
 # Usage
 The source code is written in Python (version 3.7). 
-CUDA10, tensroflow-1.13.1, and keras-2.2.4 are required for training and testing the model. 
+CUDA-10, tensroflow-1.13.1, and keras-2.2.4 are required for training and testing the model. 
 
 To run the model, jupyter notebook can be used for the model. 
 We recommend to use the ipynb files of this repository for running the model. 
