@@ -1,6 +1,6 @@
 # Deep learning model for classification between COVID-19 pneumonia, non-COVID-19 pneumonia, and the healthy on chest X-ray image
 
-This repository includes source code of deep learning model for classification between COVID-19 pneumonia, non-COVID-19 pneumonia, and the healthy on chest X-ray image. The detail of the model is described in our paper (https://doi.org/10.1038/s41598-020-74539-2).
+This repository includes source code of deep learning model for classification between COVID-19 pneumonia, non-COVID-19 pneumonia, and the healthy on chest X-ray image. The detail of the model is described in our paper (Automatic classification between COVID-19 pneumonia, non-COVID-19 pneumonia, and the healthy on chest X-ray image: combination of data augmentation methods. Sci Rep 10, 17532 (2020). https://doi.org/10.1038/s41598-020-74539-2).
 
 Our results show that the three-category accuracy of the model was 83.6% between COVID-19 pneumonia, non-COVID-19 pneumonia, and the healthy. Sensitivity of COVID-19 pneumonia was more than 90%. 
 
